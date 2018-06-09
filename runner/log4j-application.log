@@ -1,0 +1,6 @@
+2018-06-08 21:00:36 INFO  App:22 - Starting the DB Loader program ... Reading the configuration from resources.conf
+2018-06-08 21:00:36 INFO  CSV2DB:38 - tableName batch Size 20
+2018-06-08 21:00:37 INFO  CSV2DB:120 - create table tableName ( name varchar(200),occupation varchar(200),salary double)
+2018-06-08 21:02:12 INFO  App:22 - Starting the DB Loader program ... Reading the configuration from resources.conf
+2018-06-08 21:02:12 INFO  CSV2DB:38 - tableName batch Size 20
+2018-06-08 21:02:12 INFO  CSV2DB:120 - create table tableName ( name varchar(200),occupation varchar(200),salary double)
