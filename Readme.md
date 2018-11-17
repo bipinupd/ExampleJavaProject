@@ -1,9 +1,7 @@
 # Java program to read CSV and load to a table in Database
-
 Simple program to read and load the database. To compile the program use `mvn clean install`. 
 
 If you just want to run to get feel. Go to runner folder ad run the bash file `runasDocker.sh`. You don’t need to install `mysql` locally, we pull the `mysql`, build the jar and then run the command with the sample csv file.
-
 The configuration drives the program. The configuration is written in `HACON` format (https://docs.spongepowered.org/stable/en/server/getting-started/configuration/hocon.html). The configuration has two parts `jdbc` (which has all the jdbc related properties)
 
 ```
